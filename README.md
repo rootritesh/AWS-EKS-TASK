@@ -6,9 +6,9 @@
 eksctl create cluster -f cluster1.yaml</h2>
 ```  
   
-* Deploy:
+* Deploy YAML file:
   ```bash
-  kubectl apply -k .
+ kubectl apply -k .
   ```
 
 # Detailed explanation 
